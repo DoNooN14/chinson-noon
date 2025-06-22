@@ -1,2 +1,89 @@
-# chinson-noon
-ให้ แฟนสาวสุดที่รัก
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chinson.Noon</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Kannika and Tanadon</h1>
+    <p>สร้างเองให้สุดที่รัก</p>
+  </header>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pink Love Message</title>
+  <style>
+    body {
+      background: #fff0f6; 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .pink-text {
+      color: #ff69b4; 
+      font-size: 2.5rem;
+      font-weight: bold;
+      text-align: center;
+      max-width: 600px;
+      padding: 20px;
+      
+      
+     
+    }
+
+    /* เอฟเฟกต์กระพริบ (pulse) */
+    @keyframes pulse {
+      0%, 100% {
+        text-shadow:
+          0 0 5px #ff69b4,
+          0 0 10px #ff1493,
+          0 0 20px #ff1493,
+          0 0 30px #ff69b4;
+      }
+      50% {
+        text-shadow:
+          0 0 10px #ff69b4,
+          0 0 20px #ff1493,
+          0 0 30px #ff1493,
+          0 0 40px #ff69b4;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="pink-text">
+    Thank you for always being by my side.<br />
+    I love you more than anything.
+  </div>
+</body>
+</html>
+
+
+<style>
+  body {
+    background-image: url('images/14.png');
+
+    background-image: url('14.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    height: 100vh;
+  }
+</style>
+
+
+
